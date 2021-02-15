@@ -1,0 +1,81 @@
+City;Country;Country_name;Sub_Region;Region;Its_capital;Population;City_original_name;Latitude
+Chongqing;cn;China;Eastern Asia;Asia;0;29914000;;45.880291
+Shanghai;cn;China;Eastern Asia;Asia;0;24150000;;29.329546999999998
+Beijing;cn;China;Eastern Asia;Asia;1;21705000;;29.346443
+Tianjin;cn;China;Eastern Asia;Asia;0;14425000;;30.734540000000003
+Lagos;ng;Nigeria;Sub-Saharan Africa;Africa;0;13123000;;6.453056
+Nanyang;cn;China;Eastern Asia;Asia;0;12010000;;29.659926000000002
+Mumbai;in;India;Southern Asia;Asia;0;11978450;;18.975
+Sao Paulo;ao;Angola;Sub-Saharan Africa;Africa;0;11895893;S?o Paulo;-9.151022
+Moscow;ru;Russia;Eastern Europe;Europe;1;11514330;;55.752221999999996
+Karachi;pk;Pakistan;Southern Asia;Asia;0;11234942;;24.9056
+Istanbul;tr;Turkey;Western Asia;Asia;0;10895257;;41.018611
+Baoding;cn;China;Eastern Asia;Asia;0;10700000;;31.25
+Harbin;cn;China;Eastern Asia;Asia;0;10635971;;45.75
+Shenzhen;cn;China;Eastern Asia;Asia;0;10357938;;29.415912
+Wuhan;cn;China;Eastern Asia;Asia;0;10220000;;32.224452
+Jakarta;id;Indonesia;South-eastern Asia;Asia;1;10135030;;-6.174444
+Kinshasa;cd;Congo (Democratic Republic Of The);Sub-Saharan Africa;Africa;1;10076099;;-4.3
+Seoul;kr;Korea Republic of;Eastern Asia;Asia;1;10063197;;37.5985
+Guangzhou;cn;China;Eastern Asia;Asia;0;10000000;;27.381639
+Delhi;in;India;Southern Asia;Asia;0;9879172;;28.666666999999997
+Shijiazhuang;cn;China;Eastern Asia;Asia;0;9600000;;29.002558
+Xuzhou;cn;China;Eastern Asia;Asia;0;9468000;;34.180454
+Tokyo;jp;Japan;Eastern Asia;Asia;1;8967665;;35.685
+Dhaka;bd;Bangladesh;Southern Asia;Asia;1;8906039;;23.723055600000002
+Mexico;co;Colombia;Latin America and the Caribbean;Americas;0;8800000;Mexico City;2.693135
+Hangzhou;cn;China;Eastern Asia;Asia;0;8700000;;30.29365
+Zhengzhou;cn;China;Eastern Asia;Asia;0;8626505;;34.683611
+Weifang;cn;China;Eastern Asia;Asia;0;8500000;;27.319565
+Lima;pe;Peru;Latin America and the Caribbean;Americas;1;8486866;;-15.3813889
+Fuyang;cn;China;Eastern Asia;Asia;0;8360000;;32.9
+Ganzhou;cn;China;Eastern Asia;Asia;0;8300000;;25.85
+Bangkok;th;Thailand;South-eastern Asia;Asia;1;8280925;;13.753979000000001
+New York;us;United States;Northern America;Americas;0;8244910;;30.8383333
+London;gb;United Kingdom;Northern Europe;Europe;1;8173900;;51.514125
+Cairo;eg;Egypt;Northern Africa;Africa;1;8105071;;30.06
+Jining;cn;China;Eastern Asia;Asia;0;8023000;;41.0275
+Bogota;co;Colombia;Latin America and the Caribbean;Americas;1;7980001;;4.61
+Ho Chi Minh City;vn;Vietnam;South-eastern Asia;Asia;0;7955000;;10.8230200
+Tehran;ir;Iran;Southern Asia;Asia;1;7797520;;27.458446999999996
+Shenyang;cn;China;Eastern Asia;Asia;0;7760000;;27.831733000000003
+Zhumadian;cn;China;Eastern Asia;Asia;0;7640000;;32.979444
+Rangoon;mm;Myanmar;South-eastern Asia;Asia;0;7360703;;16.783333300000002
+Xian;cn;China;Eastern Asia;Asia;0;7270000;Xi'an;29.670071999999998
+Hong Kong;hk;Hong Kong;Eastern Asia;Asia;0;7182724;;22.283333300000002
+Chengdu;cn;China;Eastern Asia;Asia;0;7123000;;26.368281
+Tangshan;cn;China;Eastern Asia;Asia;0;7100000;;32.591667
+Baghdad;iq;Iraq;Western Asia;Asia;1;7055200;;33.3386111
+Shanqiu;cn;China;Eastern Asia;Asia;0;7000000;;27.699005
+Zhanjiang;cn;China;Eastern Asia;Asia;0;6900000;;22.901389
+Tsunyi;cn;China;Eastern Asia;Asia;0;6838000;;27.686667
+Milan;it;Italy;Southern Europe;Europe;0;1342385;;45.466667
+Paris;fr;France;Western Europe;Europe;1;2196936;;48.866667
+Stockholm;se;Sweden;Northern Europe;Europe;1;925934;;61.883056
+Berlin;de;Germany;Western Europe;Europe;1;3469849;;54.033333
+Munich;de;Germany;Western Europe;Europe;0;1429584;;48.15
+Oporto;pt;Portugal;Southern Europe;Europe;0;221800;;41.149606
+Warsaw;pl;Poland;Eastern Europe;Europe;1;1810598;;52.25
+Bratislava;sk;Slovakia;Eastern Europe;Europe;1;437725;;48.15
+Vienna;at;Austria;Western Europe;Europe;1;1840573;;48.2
+Rome;it;Italy;Southern Europe;Europe;1;2869461;;41.9
+Barcelona;es;Spain;Southern Europe;Europe;0;1615448;;41.398371000000004
+Madrid;es;Spain;Southern Europe;Europe;1;3265038;;40.408566
+Amsterdam;nl;Netherlands;Western Europe;Europe;0;860124;;52.35
+Lyon;fr;France;Western Europe;Europe;0;516092;;45.748457
+Brussels;be;Belgium;Western Europe;Europe;1;185103;;50.833333
+Hamburg;de;Germany;Western Europe;Europe;0;1762791;;53.55
+Dublin;ie;Ireland;Northern Europe;Europe;1;506246;;53.3330556
+Zurich;ch;Switzerland;Western Europe;Europe;0;434008;;47.366667
+Budapest;hu;Hungary;Eastern Europe;Europe;1;1752286;;47.5
+Copenhagen;dk;Denmark;Northern Europe;Europe;1;794128;;55.666667000000004
+Edinburgh;gb;United Kingdom;Northern Europe;Europe;0;488050;;55.95
+Prague;cz;Czech Republic;Eastern Europe;Europe;1;1294513;;50.083333
+Lisbon;pt;Portugal;Southern Europe;Europe;1;506654;;38.716667
+Athens;gr;Greece;Southern Europe;Europe;1;664046;;37.9833333
+Oslo;no;Norway;Northern Europe;Europe;1;681067;;59.916667000000004
+Helsinki;fi;Finland;Northern Europe;Europe;1;655281;;60.17555600000001
+Geneva;ch;Switzerland;Western Europe;Europe;0;198899;;46.195602
+Krakow;pl;Poland;Eastern Europe;Europe;0;779115;;51.730311
+Luxembourg;lu;Luxembourg;Western Europe;Europe;1;119215;;49.6116667
+Ljubljana;si;Slovenia;Southern Europe;Europe;1;284355;;46.0552778
